@@ -1,0 +1,7 @@
+1 : prelogmkfinal.pyでフォールト数データ作成
+2 : outputlog_final_cleanedの最後の方の０になってるデータを消去
+3 : pre.pyで指定tpsのダウンしたpeerのリソースデータをoutput1に出力
+4 : output1のデータを目視でremove.pyで最初と最後を削除
+5 : mankendall_cpu.pyで確認
+6 : mk_kaikiyou.pyのtpsの箇所を変更して実行
+7 : zyuukaiki.pyのtps部分を変更して実行
